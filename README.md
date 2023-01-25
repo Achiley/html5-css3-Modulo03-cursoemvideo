@@ -12,8 +12,7 @@ Repositório de estudos e exercícios do Módulo 3 do curso sobre as linguagens 
 </ul>
 
 # &#x1F680; Status
-Estudando
-<p>Iniciado 24/01/2023 </p>
+Concluido ✔️
 
 
 # 🏆 Aprendizado
